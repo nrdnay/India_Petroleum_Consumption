@@ -3,17 +3,28 @@ In this project, the consumption of petroleum products in India was examined, a 
 The dataset containing the consumption of petroleum products in India belongs to the period April 2020 - February 2023.
 The petroleum product categories in the dataset are as follows:
 
-**Aviation Turbine Fuel (ATF)**
-**Bitumen**
+**Aviation Turbine Fuel (ATF)**\n
+
+**Bitumen**\n
+
 **Furnace Oil (FO) & Low-Sulphur Heavy Stock (LSHS)**
+
 **High-Speed ​​Diesel (HSD)**
+
 **Light Diesel Oil (LDO)**
+
 **Liquefied Petroleum Gas (LPG)**
+
 **Lubricants & Greases**
+
 **Motor Spirit (MS)**
+
 **Naptha**
+
 **Others**
+
 **Petroleum Coke**
+
 **Superior Kerosene Oil (SKO)**
 
 During the project;
