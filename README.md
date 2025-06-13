@@ -1,6 +1,7 @@
 # ABOUT THE PROJECT
 In this project, the consumption of petroleum products in India was examined, a consumption forecast model was created, model performance was measured and future consumption of petroleum products was estimated.
-The dataset containing the consumption of petroleum products in India belongs to the period April 2020 - February 2023. 
+The dataset containing the consumption of petroleum products in India belongs to the period April 2020 - February 2023.
+
 **The article related this project "SHIFTING TRENDS in PETROLEUM PRODUCTS in INDIA" is in the link below** : https://medium.com/@aydogdunurdan/indias-energy-pulse-shifting-trends-in-petroleum-products-and-the-power-of-data-science-9b226297419c
 
 **Projeyle ilgili "HİNDİSTAN’IN ENERJİ NABZI: PETROL ÜRÜNLERİNDE DEĞİŞEN TRENDLER" başlıklı Türkçe Makale aşağıdaki linktedir :**
