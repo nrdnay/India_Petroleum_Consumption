@@ -1,9 +1,13 @@
 # ABOUT THE PROJECT
 In this project, the consumption of petroleum products in India was examined, a consumption forecast model was created, model performance was measured and future consumption of petroleum products was estimated.
 The dataset containing the consumption of petroleum products in India belongs to the period April 2020 - February 2023. 
-The link below is for the Interesting Analysis Report of Petroleum Products Trend in India : https://medium.com/@aydogdunurdan/indias-energy-pulse-shifting-trends-in-petroleum-products-and-the-power-of-data-science-9b226297419c
+**The article related this project "SHIFTING TRENDS in PETROLEUM PRODUCTS in INDIA" is in the link below** : https://medium.com/@aydogdunurdan/indias-energy-pulse-shifting-trends-in-petroleum-products-and-the-power-of-data-science-9b226297419c
 
-The petroleum product categories in the dataset are as follows:
+**Projeyle ilgili "HİNDİSTAN’IN ENERJİ NABZI: PETROL ÜRÜNLERİNDE DEĞİŞEN TRENDLER" başlıklı Türkçe Makale aşağıdaki linktedir :**
+https://medium.com/t%C3%BCrkiye/petrol-ve-petrol-%C3%BCr%C3%BCnlerinin-hindistandaki-t%C3%BCketim-trendlerinin-analizi-84aed2d427d4
+
+
+**The petroleum product categories in the dataset are as follows:**
 
 **Aviation Turbine Fuel (ATF)**\n
 
